@@ -1,0 +1,2 @@
+This repository contains the code for the PML exam 2022/2023.
+Note that since some of the code, including models and generated data is not included due to size limitations. The code is primarily meant for verification purposes, but it includes the capability to generate the files used in the project, if need be.
